@@ -1,4 +1,4 @@
-# CERNN = Chemistry estimating recurrent neural network
+# Chemistry estimating recurrent neural network (CERNN)
 
 This is a core code of the chemistry estimating recurrent neural network
 
