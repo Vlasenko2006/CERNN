@@ -1,4 +1,4 @@
-name: my_tensorflow_env
+name: cernn_env
 channels:
   - conda-forge
   - defaults
