@@ -2,7 +2,7 @@
 
 The health of a population directly depends on the quality of the surrounding air. Numerical atmospheric chemistry modeling requires extensive computations measured in thousands of CPU hours. Neural networks offer an alternative way of estimating air quality and require orders of magnitude lesser computational resources. CERRN is such a model. It emulates the Community Multiscale Air Quality model (CMAQ). Despite its extremely simple architecture, it produces reliable chemical estimates 700 faster than CMAQ. It estimates the concentrations of various pollutants in the atmosphere from meteorological data like wind, temperature, humidity, etc.., See more in [1].  
 
-## Example of CERRN setimates:
+## Example of CERRN etimates:
 Compare real and estimated $$NO_2$$ anomalies estimated by CERNN(left) and CMAQ (right, referred here to as the true)
 
 
@@ -31,7 +31,7 @@ The core consists of 3 subroutines:
 
 
 
-## Setting Up CERRN Environment with Anaconda
+## Setting up CERRN Environment with Anaconda
 To run the CERRN, you need several packages installed. These packages are listed in the ```cernn_env.yaml```. Here is the file's content:
 
 ```
